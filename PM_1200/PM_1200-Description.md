@@ -1,6 +1,6 @@
 # Features
 
-- FShared Parameter editor to create, edit and merge shared parameters files.
+- Shared Parameter editor to create, edit and merge shared parameters files.
 - Support for adding properties to parameters such as User Modifiable, Visibility, Description, Hide When no Value, and Groups.
 - Support for sub-categories (Wall Sweeps, Roof Gutters, etc.).
 
