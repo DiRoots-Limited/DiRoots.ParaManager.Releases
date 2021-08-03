@@ -2,6 +2,7 @@
 
 - Ability to set the order of adding shared parameters to the project
 - Ability to manage the order of parameter creation When importing from the shared parameter file
+- Save shared parameters from Shared Editor in order you sort them
 - Allow generating new GUIDs when saving from Shared Editor
 
 
